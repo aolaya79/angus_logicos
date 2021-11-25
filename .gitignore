@@ -1,0 +1,6 @@
+# carpetas para ignorar
+node_modules
+
+#subcarpetas
+css/bootstrap.css
+js/bootstrap.js
