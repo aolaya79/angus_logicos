@@ -7810,7 +7810,7 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important; } }
 
-/* Estilos de SASS*/
+/* Estilos de SASS modificando bootsrap*/
 a {
   color: black !important;
   text-decoration: underline; }
