@@ -7828,3 +7828,7 @@ a:hover {
 
 .nav-link:focus {
   color: #5da01a; }
+
+.card-text:last-child {
+  margin-bottom: 0;
+  font-size: 1rem; }

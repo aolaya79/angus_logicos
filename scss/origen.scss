@@ -26,3 +26,8 @@ a:hover {
 .nav-link:focus {
     color: rgb(93, 160, 26);
 }
+
+.card-text:last-child {
+    margin-bottom: 0;
+    font-size: 1rem;
+}
