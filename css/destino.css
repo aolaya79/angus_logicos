@@ -7832,3 +7832,9 @@ a:hover {
 .card-text:last-child {
   margin-bottom: 0;
   font-size: 1rem; }
+
+.mapa {
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 500px; }
